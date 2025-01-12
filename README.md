@@ -1,4 +1,4 @@
-# Happy-Sad Face Classifier
+# EmotionNet
 
 This repository contains a deep learning model for classifying images of faces as either "happy" or "sad". The model is built using TensorFlow and trained on a dataset of labeled facial emotion images.
 
